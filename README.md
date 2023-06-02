@@ -1,7 +1,7 @@
 <img alt="Banner" align="center" src="https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47k0ntirqp5awwsg6wuyhjqfqr5945p601qdibfcs2&rid=giphy.gif&ct=g">
 
 <h1 align="center">Hi 👋, I'm Aman Raj</h1>
-<h3 align="center">I'm Full Stack Python and C++ Developer</h3>
+<h3 align="center">I'm a Python and C++ Developer</h3>
 
 ***We're Working on new Project that makes some sense. I'm also trying to create new things that change the World.***
 
