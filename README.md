@@ -55,7 +55,7 @@ Research-oriented exploration into **LLM precision & efficiency**, experimenting
   <a href="https://kaggle.com/amanrajbose"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
 </p>
 
-**Portfolio**: [More about me](https://youtube.com)
+**Portfolio**: [More about me]()
 
 ---
 
