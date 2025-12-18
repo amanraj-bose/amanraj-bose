@@ -19,7 +19,7 @@ AI companion system using a **multi-architecture approach**. It orchestrates loc
 * Tech: Python, C++
 * Focus: cognition, orchestration, long-term memory
 
-🔗 *Learn more*: [https://youtube.com](https://youtube.com)
+🔗 *Learn more*: [Project Luna]()
 
 ---
 
@@ -30,7 +30,7 @@ A **Qt-based focus & productivity system** integrating Todo, Pomodoro, Calendar,
 * Focus: UX, system integration, optional AI extensions
 * Core idea: focus amplification, not distraction
 
-🔗 *Learn more*: [https://youtube.com](https://youtube.com)
+🔗 *Learn more*: [Project Apex]()
 
 ---
 
@@ -38,7 +38,7 @@ A **Qt-based focus & productivity system** integrating Todo, Pomodoro, Calendar,
 
 Research-oriented exploration into **LLM precision & efficiency**, experimenting with architectural and training-level improvements.
 
-🔗 *Learn more*: [https://youtube.com](https://youtube.com)
+🔗 *Learn more*: [Project Roboku]()
 
 ---
 
